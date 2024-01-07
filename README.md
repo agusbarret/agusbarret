@@ -12,9 +12,6 @@ L D M
 
 
 ## 🛠 Tools & Skills 🛠
-Docker
-
-Terraform
 
 Python
 
